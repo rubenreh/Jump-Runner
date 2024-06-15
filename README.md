@@ -1,4 +1,4 @@
-# Jump-Runner
+# Jump Runner
 
 "Jump Runner" is a game created using Arduino, an LCD display (Liquid Crystal Display), and a pushbutton for control. This unique game combines the thrill of an endless runner with the simplicity of Arduino-based hardware, offering a fun and interactive gaming experience.
 
